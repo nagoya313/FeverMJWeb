@@ -1,0 +1,10 @@
+●とても良いルールの三人麻雀のオンラインゲームを作つてみようというプロジェクトのWeb版
+
+●ビルド方法
+tsc main.ts --target ES5 --out main.js
+
+●参照ルール
+http://do-chu-bo.up.seesaa.net/image/A4D5A4A3A1BCA4D0A1BC.pdf
+
+●牌画像
+http://www.mj-king.net/sozai/
